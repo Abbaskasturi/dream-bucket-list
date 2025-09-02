@@ -1,8 +1,8 @@
-Dream Bucket List
+Dream Bucket List <br/>
 A simple, interactive web application that allows users to create and manage a list of their dreams, goals, and aspirations. Add new items and delete them once they've been accomplished.
 About the Project
 This project is a straightforward front-end application built with basic web technologies. It provides a clean and intuitive interface for users to keep track of their bucket list items. The application is a great example of a simple CRUD (Create, Read, Delete) operation using vanilla JavaScript.
-Features
+Features <br/>
 Add Items: Easily add new dreams to your list.
 
 Delete Items: Remove items from the list once you've completed them.
